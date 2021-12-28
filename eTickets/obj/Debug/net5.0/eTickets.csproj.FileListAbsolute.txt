@@ -80,3 +80,4 @@ C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\ref\e
 C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\eTickets.pdb
 C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\eTickets.genruntimeconfig.cache
 C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Index.cshtml.g.cs
+C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Index.cshtml.g.cs
