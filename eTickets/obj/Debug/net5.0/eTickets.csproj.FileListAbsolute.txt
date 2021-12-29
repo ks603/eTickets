@@ -64,8 +64,6 @@ C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\scope
 C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\eTickets.TagHelpers.input.cache
 C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\eTickets.TagHelpers.output.cache
 C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\eTickets.RazorCoreGenerate.cache
-C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
