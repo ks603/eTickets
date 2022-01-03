@@ -94,3 +94,4 @@ C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\Razor
 C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Details.cshtml.g.cs
 C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Edit.cshtml.g.cs
 C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Delete.cshtml.g.cs
+C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
