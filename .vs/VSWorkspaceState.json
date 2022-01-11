@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\eTickets",
-    "\\eTickets\\Data"
+    "\\eTickets\\Data",
+    "\\eTickets\\Views",
+    "\\eTickets\\Views\\Movies"
   ],
   "SelectedNode": "\\eTickets.sln",
   "PreviewInSolutionExplorer": false
