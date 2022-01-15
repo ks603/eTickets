@@ -37,9 +37,9 @@ namespace eTickets.Controllers
         {
             var movieDropDownData = await _service.GetNewMovieDropDownsValues();
 
-            ViewBag.Cinema = new SelectList(movieDropDownData.Cinemas, "Id", "Name");
-            ViewBag.Producer = new SelectList(movieDropDownData.Producers, "Id", "FullName");
-            ViewBag.Actor = new SelectList(movieDropDownData.Actors, "Id", "FullName");
+            ViewBag.Cinemas = new SelectList(movieDropDownData.Cinemas, "Id", "Name");
+            ViewBag.Producers = new SelectList(movieDropDownData.Producers, "Id", "FullName");
+            ViewBag.Actors = new SelectList(movieDropDownData.Actors, "Id", "FullName");
 
             return View();
         }

@@ -1,9 +1,8 @@
 ﻿@model NewMovieVM
-@using eTickets.Data
-
+@using eTickets.Data;
+ 
 @{
     ViewData["Title"] = "Create a new movie";
-
 }
 
 <div class="row">
@@ -48,7 +47,7 @@
                         <div class="col-md-6">
                             <div class="form-group">
                                 <label asp-for="CinemaId" class="control-label"></label>
-                                <select asp-for="CinemaId" class="form-control" asp-items="ViewBag.Cinema"></select>
+                                <select asp-for="CinemaId" class="form-control" asp-items="ViewBag.Cinemas"></select>
                                 <span asp-validation-for="CinemaId" class="text-danger"></span>
                             </div>
                             <div class="form-group">
@@ -58,16 +57,15 @@
                             </div>
                             <div class="form-group">
                                 <label asp-for="ProducerId" class="control-label"></label>
-                                <select asp-for="ProducerId" class="form-control" asp-items="ViewBag.Producer"></select>
+                                <select asp-for="ProducerId" class="form-control" asp-items="ViewBag.Producers"></select>
                                 <span asp-validation-for="ProducerId" class="text-danger"></span>
                             </div>
                             <div class="form-group">
-                                <label asp-for="ActorsIds" class="control-label"></label>
-                                <select asp-for="ActorsIds" class="form-control" asp-items="ViewBag.Actor" multiple></select>
-                                <span asp-validation-for="ActorsIds" class="text-danger"></span>
+                                <label asp-for="ActorIds" class="control-label"></label>
+                                <select asp-for="ActorIds" class="form-control"  asp-items="ViewBag.Actors" multiple></select>
+                                <span asp-validation-for="ActorIds" class="text-danger"></span>
                             </div>
                         </div>
-
                         <div class="col-md-12">
                             <div class="form-group">
                                 <label asp-for="Description" class="control-label"></label>
@@ -83,19 +81,21 @@
 
                     <div class="form-group">
                         <input type="submit" value="Create" class="btn btn-outline-success float-right" />
-                        <a class="btn btn-outline-secondary" asp-action="Index">Show All</a>
+                        <a class="btn btn-outline-secondary" asp-action="Index">Show all</a>
                     </div>
+
                 </form>
 
             </div>
         </div>
+
     </div>
 </div>
 
-@section scripts{ 
+@section Scripts{ 
     <script>
-        $("ImageURL").on("Change", function () {
-            var output = document.getElementById("ImageURLPreview");
+        $("#ImageURL").on("change", function () {
+            var output = document.getElementById("ImageUrlPreview");
             output.src = $(this).val();
         })
     </script>

@@ -43,7 +43,7 @@ namespace eTickets.Models
         //Relationships
         [Display(Name = "Select actor(s)")]
         [Required(ErrorMessage = "Movie actor(s) is required")]
-        public List<int> ActorsIds { get; set; }
+        public List<int> ActorIds { get; set; }
 
         [Display(Name = "Select a cinema")]
         [Required(ErrorMessage = "Movie cinema is required")]
