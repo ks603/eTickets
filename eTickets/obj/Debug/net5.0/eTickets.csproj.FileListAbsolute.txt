@@ -101,3 +101,4 @@ C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\Razor
 C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Orders\ShoppingCart.cshtml.g.cs
 C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
 C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Orders\OrderCompleted.cshtml.g.cs
+C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
