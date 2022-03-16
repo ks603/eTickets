@@ -108,3 +108,4 @@ C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\bin\Debug\net5.0\Micro
 C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs

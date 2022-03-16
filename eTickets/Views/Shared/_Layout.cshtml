@@ -49,6 +49,10 @@
                         <i class="bi bi-box-arrown-in-right"></i> Log in
                     </a>
 
+                    <a class="btn btn-outline-primary my-2 my-sm-0" asp-controller="Account" asp-action="Register">
+                        <i class="bi bi-person-plus"></i> Register
+                    </a>
+
                     @*User Profile section*@
                     <div class="dropdown">
                         <button class="btn btn-outline-success dropdown-toggle" type="button" id="profile-btn" data-toggle="dropdown"
@@ -58,7 +62,8 @@
                         <ul class="dropdown-menu" aria-labelledby="profile-btn">
                             <li>
                                 <a class="dropdown-item" asp-controller="Orders" asp-action="Index">
-                                <i class="bi bi-list"></i>Orders</a>
+                                    <i class="bi bi-list"></i>Orders
+                                </a>
                             </li>
 
                         </ul>
