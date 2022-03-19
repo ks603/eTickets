@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAIJLjlUhgME2p8HkeHAIRlAAAAAACAAAAAAADZgAAwAAAABAAAAAa8dDrVmoSKbWFXp/2vEx3AAAAAASAAACgAAAAEAAAAJbuuJ1L21qbegQqloCtoCSAAAAAryyDfrSH65/qkN3ji9fk/ZtRFAA22vnAVdZUUzAMHMVedd/HzOg60KLFxL/Y9XH4WSf4EZu3x8ksDBXZZKi7SOZ193hl+jYssoInPcSuAzAPIXz7QTnzr0HuefFJWZ7+7txtLl76LzclVwhwgKiee0xg9NhegjAaI9tZ+puixQwUAAAA9pe7VXoaJh5Ta4qMb7tJdI0V0Z8=</EncryptedPassword>
+    <History>True|2022-03-19T04:51:13.9105036Z;True|2022-03-19T00:37:12.9925155-04:00;True|2022-03-19T00:35:28.8495630-04:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="eTickets.Data.AppDbContext">
+      <Value>Server=tcp:etickets-app-myserver.database.windows.net,1433%3bInitial Catalog=etickets-app-db%3bPersist Security Info=False%3bUser ID=etickets-admin%3bPassword=Coding1234%3f%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

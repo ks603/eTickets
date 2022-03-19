@@ -6,6 +6,6 @@
     <View_SelectedScaffolderID>RazorViewEmptyScaffolder</View_SelectedScaffolderID>
     <View_SelectedScaffolderCategoryPath>root/Common/MVC/View</View_SelectedScaffolderCategoryPath>
     <ShowAllFiles>true</ShowAllFiles>
-    <NameOfLastUsedPublishProfile>C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\Properties\PublishProfiles\etickets-application - FTP.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\kevin.shaughnessy\source\repos\eTickets\eTickets\Properties\PublishProfiles\etickets-application - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
